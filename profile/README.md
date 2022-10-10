@@ -1,3 +1,4 @@
+![EclipseSource](banner.jpg)
 
 ## Tool Creators at your Service
 
