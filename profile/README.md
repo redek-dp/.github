@@ -1,4 +1,4 @@
-![EclipseSource](banner.jpg)
+![EclipseSource](./banner.jpg)
 
 ## Tool Creators at your Service
 
