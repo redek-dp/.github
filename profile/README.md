@@ -1,4 +1,4 @@
-![EclipseSource](./banner.jpg)
+![banner](https://user-images.githubusercontent.com/588090/194827814-15b38cd0-173a-4dd1-a79d-385a4ce43295.jpg)
 
 ## Tool Creators at your Service
 
