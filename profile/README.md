@@ -15,7 +15,7 @@ EclipseSource is a major contributor to a large number of open source projects i
 
 ## Come Work With Us
 
-Looking for a new challenging and fun?
+Looking for a new challenge and fun?
 EclipseSource gathers the best talent independent of location.
 We combine the benefits of collocated work with the advantages of working remotely.
 
